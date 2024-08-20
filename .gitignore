@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+
+# Virtual Environment
+venv/
+env/
+*.venv
+pip-selfcheck.json
+
+# IDE
+.idea/
+.vscode/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+data/
